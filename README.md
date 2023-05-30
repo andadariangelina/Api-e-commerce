@@ -10,4 +10,3 @@ API (Application Programming Interface) e-commerce adalah kumpulan perangkat lun
 1. Buka repository ini dalam IDE Java seperti IntelliJ IDEA :
 https://github.com/andadariangelina/Api-e-commerce
 2. Jalankan program dengan mengeksekusi pada class 'main'
-3. 
